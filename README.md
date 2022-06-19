@@ -1,2 +1,2 @@
-# Education-website
-Creat a Education website with bootstrap
+# Educational-website
+Create an educational website with bootstrap.
